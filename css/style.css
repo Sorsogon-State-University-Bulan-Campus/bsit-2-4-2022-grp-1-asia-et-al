@@ -12,7 +12,7 @@ html, .main {
 	margin:0;
 }
 .main {
-	background:#a4d9dd url(../images/main_bg.gif) repeat-x left top;
+	background:#af0404 url(../images/main_bg.gif) repeat-x left top;
 }
 .clr {
 	clear:both;
@@ -34,7 +34,7 @@ p {
 	padding:0 0 8px 0;
 }
 a {
-	color:#87c1c8;
+	color:#255bcf;
 	text-decoration:underline;
 }
 .header, .content, .menu_nav, .fbg, .footer, form, ol, ol li, ul, .content .mainbar, .content .sidebar {
