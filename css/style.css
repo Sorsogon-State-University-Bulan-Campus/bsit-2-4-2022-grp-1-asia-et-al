@@ -63,7 +63,7 @@ h1 {
 	text-transform:uppercase;
 }
 h1 a, h1 a:hover {
-	color:#fff;
+	color:#af0404;
 	text-decoration:none;
 }
 h1 span {
@@ -164,7 +164,7 @@ h1 small {
 	padding-bottom:0;
 	font-size:33px;
 	line-height:1.2em;
-	color:#87c1c8;
+	color:#af0404;
 }
 .content .mainbar div.img {
 	padding:12px 0 0;
