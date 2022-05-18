@@ -12,7 +12,7 @@ html, .main {
 	margin:0;
 }
 .main {
-	background:#af0404 url(../images/main_bg.gif) repeat-x left top;
+	background:#af0404 url(../images/bck.jpg) repeat-x left top;
 }
 .clr {
 	clear:both;
@@ -134,15 +134,15 @@ h1 small {
 	font-size:11px;
 	line-height:16px;
 	font-weight:normal;
-	color:#5ab7be;
+	color:#fafafa;
 	text-decoration:none;
 	text-transform:uppercase;
 	text-align:center;
-	background:url(../images/menu_p.gif) no-repeat center top;
+	background:url(../images/button.jpg) no-repeat center top;
 }
 .menu_nav ul li.active a, .menu_nav ul li a:hover {
 	text-decoration:none;
-	color:#114044;
+	color:#bb0808;
 	background:url(../images/menu_a.gif) no-repeat center top;
 }
 .content {
