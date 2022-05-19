@@ -96,4 +96,5 @@ https://pin.it/1BWgj6K
 https://pin.it/5tTYk9l
 https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.free-css.com%2Ffree-css-templates%2Fpage168%2Fvoonte%3Ffbclid%3DIwAR31-gtY-oTvz9BfCPt4sxlYFlwVQ_qSgjS2k4Y-kcLgBABHPmVkQin51cQ&h=AT2MjC5Y9fVOkPduA5GT6HtsotgR57U7ZsfA3Lqjci8N7dcVJlHOY5XrBCMH5RiEFTT67ajniuto5XP5klzVJw_Ese2VwK2YEnhazW02cb14WOhfyk7_SLG65hg4aEZQZs4aRw
 
-
+## URL
+https://sorsogon-state-university-bulan-campus.github.io/bsit-2-4-2022-grp-1-asia-et-al/
